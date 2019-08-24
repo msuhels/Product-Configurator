@@ -1,5 +1,8 @@
 # Product Configurator
-This configurator is build using Jquery and HTML. It uses multiple images and combine them to show variations of product.
+This configurator is build using Jquery and HTML. 
+- It uses multiple images and combine them to show variations of product.
+- 36 Images are used to show 360 Degree view of product.
+- On selection of option it loads different images as per selected option and show on screen
 
 # Technology
 HTML and Jquery
