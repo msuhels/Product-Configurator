@@ -1,8 +1,19 @@
-# courtconfigurator
+# Product Configurator
+This configurator is build using Jquery and HTML. It uses multiple images and combine them to show variations of product.
 
-Design your own court 
+# Technology
+HTML and Jquery
 
-### Installing
-
+# Installation Guide
 Download / clone the repo and put it on your server 
 
+#### About US ####
+# Who we are
+We are team of 15 peoples with multiple skill sets. We are based in India. We offer Web and Mobile Application development Services.
+
+# Customization Service
+We do offer customization, Integration & Custom development services. 
+Feel free to contact us at https://www.ibrinfotech.com/contact-us
+
+# How much it Costs
+We offer our services at nominal rates of $18 per hour
